@@ -1,0 +1,7 @@
+Using the Titanic Dataset available from
+https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv,
+Write a program that does the following:
+1. Reads/Loads the Titanic dataset
+2. Creates an SQLite database with a table called ‘passengers’
+3. Inserts data from the dataset into the ‘passengers’ table
+4. Checks that the data has been correctly inserted by querying the ‘passengers’ table
